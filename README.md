@@ -81,7 +81,7 @@ El detalle completo del proyecto, ordenado de principio a fin con los conceptos 
 
 ## 📸 Capturas
 
-![VMs y red del laboratorio](screenshots/01-arquitectura-vms.png)
+![Configuración inicial del servidor Velociraptor](screenshots/01-arquitectura-vms.png)
 ![Servidor Velociraptor levantado](screenshots/02-servidor-corriendo.png)
 ![Endpoint Windows conectado (Connected)](screenshots/03-cliente-conectado.png)
 ![Consulta VQL - procesos en vivo](screenshots/04-vql-pslist.png)
@@ -114,7 +114,7 @@ El detalle completo del proyecto, ordenado de principio a fin con los conceptos 
 
 ## ⚠️ Disclaimer
 
-Laboratorio educativo, realizado en un entorno completamente aislado y virtualizado, sin fines de producción.
+Laboratorio educativo, realizado en un entorno virtualizado, sin fines de producción.
 
 ---
 
