@@ -90,7 +90,6 @@ El detalle completo del proyecto, ordenado de principio a fin con los conceptos 
 ![Recolección forense del archivo vía VFS](screenshots/07-vfs-recoleccion.png)
 ![Verificación de hashes en VirusTotal](screenshots/08-virustotal.png)
 
-*(Estos son los nombres que vamos a usar — cuando me pases las capturas reales, te digo cuál va con cada nombre, igual que hicimos con el lab de SIEM.)*
 
 ---
 
